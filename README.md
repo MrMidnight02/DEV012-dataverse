@@ -1,15 +1,9 @@
-# Dataverse
-README:
 
-# Dataverse 
-
-![Texto Alternativo](src/imageUrl/bienvenido.png)
+# Data Lovers - Nuestro Proyecto
 
 ## Introducción
 
-¡Bienvenido a Data Lovers! La aplicación web esta diseñada para todos los amantes de Pokémon. Con Data Lovers, puedes adentrarte en el fascinante mundo de los Pokémon y explorar información detallada sobre estas criaturas icónicas. Hemos desarrollado esta aplicación con el propósito de brindarte una experiencia enriquecedora y divertida.
-
-![Texto Alternativo](src/imageUrl/readme.png)
+¡Bienvenido a Data Lovers! Somos Hilda García y Yamileth Caldera, y estamos emocionadas de presentarte nuestra aplicación web diseñada para todos los amantes de Pokémon. Con Data Lovers, puedes adentrarte en el fascinante mundo de los Pokémon y explorar información detallada sobre estas criaturas icónicas. Hemos desarrollado esta aplicación con el propósito de brindarte una experiencia enriquecedora y divertida.
 
 ## Funcionalidades
 
@@ -17,7 +11,7 @@ Data Lovers te ofrece una variedad de funcionalidades útiles para explorar y ap
 
 1. **Filtrar Pokémon por tipo**: Nuestra aplicación te permite seleccionar un tipo de Pokémon específico, como Agua, Fuego, Dragón y muchos otros, para ver una lista de Pokémon relacionados con ese tipo.
 
-2. **Ordenar Pokémon**: Puedes ordenar la lista de Pokémon de acuerdo con tus preferencias. Elige entre criterios de ordenación como el nombre en orden alfabético ascendente o en orden descendente.
+2. **Ordenar Pokémon**: Puedes ordenar la lista de Pokémon de acuerdo con tus preferencias. Elige entre criterios de ordenación como el nombre en orden alfabético, las habilidades, el peso ascendente o descendente, entre otros.
 
 3. **Estadísticas Pokémon**: En Data Lovers, proporcionamos estadísticas útiles que te ayudarán a comprender mejor a los Pokémon. Puedes acceder a datos como el promedio de peso, la suma total de pesos, el peso mínimo y máximo en la lista seleccionada.
 
@@ -27,7 +21,7 @@ Utilizar Data Lovers es fácil y divertido. Aquí hay algunos pasos para ayudart
 
 1. **Filtrado por Tipo**: En la parte superior de la página, encontrarás un menú desplegable que te permite seleccionar un tipo de Pokémon de tu elección. Una vez que lo elijas, la lista de Pokémon se actualizará automáticamente para mostrar solo los de ese tipo.
 
-2. **Ordenación Personalizada**: En el segundo menú desplegable, puedes seleccionar tu criterio de ordenación preferido. Esto te permitirá organizar la lista de Pokémon por nombre de manera ascendente o descendente.
+2. **Ordenación Personalizada**: En el segundo menú desplegable, puedes seleccionar tu criterio de ordenación preferido. Esto te permitirá organizar la lista de Pokémon de acuerdo con tus intereses.
 
 3. **Limpiar Selecciones**: Si en cualquier momento deseas volver a la lista completa de Pokémon, simplemente haz clic en el botón "Limpiar" y restaurarás la vista general.
 
@@ -55,8 +49,6 @@ Nuestro proceso de desarrollo fue meticuloso y cuidadosamente planificado para g
 
 9. **Corrección de Errores**: Identificamos y corregimos cualquier error que surgió durante las pruebas de aceptación, asegurando que nuestra aplicación estuviera lista para su lanzamiento.
 
-10. **Pruebas e2e**: Realizamos las pruebas e2e para validar internamente el funcionamiento de la aplicación.
-
 ## Tecnología utilizada
 
 Hemos construido esta aplicación utilizando HTML, CSS y JavaScript. También incorporamos datos reales de Pokémon para brindarte una experiencia auténtica y enriquecedora.
@@ -67,3 +59,6 @@ Hemos construido esta aplicación utilizando HTML, CSS y JavaScript. También in
 - Yamileth Caldera
 
 Esperamos que disfrutes explorando el mundo de los Pokémon con nuestra aplicación. Diviértete, sigue atrapando Pokémon y comparte esta experiencia con tus amigos y compañeros entrenadores.
+
+---
+
